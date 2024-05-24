@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    SOURCE_OUTPUT_BUCKET: ""
+    SOURCE_OUTPUT_BUCKET: "source-artifacts-zscsorba"
     SOURCE_PATH: "source"
     APP_NAME: "shop"
     TARGET_BRANCH: "develop"
